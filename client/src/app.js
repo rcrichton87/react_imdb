@@ -1,9 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import FilmBox from './components/FilmBox'
 
 window.onload = function(){
   ReactDOM.render(
-    <h1> App Started </h1>,
+    <FilmBox />,
     document.getElementById('app')
   );
 }
