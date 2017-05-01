@@ -1,0 +1,15 @@
+.film-box{
+  width: 40%;
+  border: 1px solid black;
+}
+
+.get-showtimes{
+  display:block;
+  margin: 0 auto;
+  background-color: #136CB2;
+  color: white;
+  text-decoration: bold;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  width: 90%;
+}
