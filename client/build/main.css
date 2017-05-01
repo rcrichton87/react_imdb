@@ -1,6 +1,7 @@
 .film-box{
   width: 40%;
   border: 1px solid black;
+  padding-bottom: 20px;
 }
 
 .get-showtimes{
